@@ -1,1 +1,1 @@
-ng seriouse with python
+getting seriouse with python
